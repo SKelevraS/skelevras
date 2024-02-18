@@ -21,3 +21,9 @@
 )
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql
 )
+
+### My projects
+#### Frontend-projects
+[Book Cards](https://github.com/SKelevraS/BookCards)
+
+[Elevator](https://github.com/SKelevraS/elevator)
